@@ -12,6 +12,6 @@ Using the apk
 Using the source code
 
 1. In Android Studio, go to `File > New > Project from Version Control > GitHub`.
-2. Set GitHub repository URL to `https://github.com/fruitspunchs/SunshineWearable.git`.
+2. Set GitHub repository URL to `https://github.com/fruitspunchs/BuildItBigger.git`.
 3. Click `Clone`.
 4. Install using the Gradle task `installFreeDebug` or `installPaidDebug`.
